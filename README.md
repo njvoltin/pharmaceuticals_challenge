@@ -10,3 +10,5 @@ close to half male and half female.Our code then creates a box plot which shows 
 in mice receiving four different type of treatment. A line graph shows how the tumor size in mouse 
 b128 reacted to a specific treatment. Finally, a scatter plot shows that there is a positive relationship
 between mouse weight and the size of the tumor it has. 
+
+The homework notebook is in Startercode4/pymaceuticals/pymaceuticals_starter_changes
